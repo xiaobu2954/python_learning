@@ -1,0 +1,7 @@
+#!/usr/bin/python2.7
+#print absolute value of an integer:
+a = input("Please input an integer:")
+if a>=0:
+    print(a)
+else:
+    print(-a)
